@@ -1,7 +1,9 @@
+![Tran Phat Trien (3)](https://github.com/tranphattrien/tranphattrien/assets/78815673/a3058f45-e520-45c0-942b-b814e64faa86)
+
 <h1 align="center">Hi 👋, I'm Tran Phat Trien</h1>
 <h3 align="center">I'm a Front-End developer, and I'm always challenging myself to improve my skills and learn new technologies.</h3>
 
-- 📫 How to reach me **trientranphat@gmail.com**
+- 📫 Reach me **trientranphat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
